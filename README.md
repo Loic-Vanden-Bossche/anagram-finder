@@ -1,1 +1,1 @@
-# anagram-finder
+# Anagram Finder
